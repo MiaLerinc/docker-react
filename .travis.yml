@@ -7,8 +7,3 @@ before_install:
 
 script:
   - docker run mia555/docker-react npm run test -- --coverage
-
-
-
-
-  
